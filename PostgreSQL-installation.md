@@ -12,5 +12,7 @@ langkah langkah
 11. ekan tombol “Next” lagi jika halaman “Ready to Install” muncul. Proses instalasi akan dimulai.
 12. Setelah proses install selesai, halaman akhir dari PostgreSQL Setup Wizard akan muncul. 
 13. Tutup PostgreSQL Setup Wizard dengan menekan tombol “Finish”.
-14. Proses instalasi PostgreSQL selesai.
+14. Proses instalasi PostgreSQL selesai dan siap digunkan.
+15. ![image](https://github.com/R-Samsam/pertemuan1-basis-data/assets/148309592/10d76242-7815-4fab-8260-30dc0f87613b)
+
 

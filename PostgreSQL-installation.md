@@ -1,4 +1,4 @@
-langkah langkah
+langkah langkah install PostgerSQL
 1. Kunjungi situs PostgreSQL dan pergi ke bagian “Download”. [link] https://www.postgresql.org/download/.
 2. Setelah masuk, pilih “Download the installer”
 3. Selanjutnya, pilih versi PostgreSQL

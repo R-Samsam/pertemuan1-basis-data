@@ -1,4 +1,4 @@
-langkah langkah
+langkah langkah instal Dbeaver
 1. cari pada browser dbeaver [link] https://dbeaver.io/download/
 2. Setelah proses pengunduhan selesai, selanjutnya adalah menginstall DBeaver, Pertama kita perlu membuka file unduhan DBeaver dengan klik kanan lalu open administrator. Pilih bahasa yang ingin digunakan
 3. Setelah itu, pada bagian setup klik next.

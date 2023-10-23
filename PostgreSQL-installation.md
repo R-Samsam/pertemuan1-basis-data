@@ -6,7 +6,7 @@ langkah langkah install PostgerSQL
 5. Di layar, akan ditanyai tentang lokasi directory untuk instalasi . Isi sesuai kebutuhan, atau langsung tekan tombol “Next” untuk memilih directory semula.
 6. Selanjutnya memilih komponen-komponen yang ingin diinstall. Disarankan untuk memilih semua komponen. Tekan tombol “Next” untuk melanjutkan.
 7. Berikutnya akan dimintai lokasi directory kembali, namun kali ini adalah lokasi penyimpanan database PostgreSQL. Seperti sebelumnya, isi sesuai kebutuhan , atau langsung tekan tombol “Next” untuk memilih directory semula.
-8. Di halaman selanjutnya, akan dimintai password untuk akun superuser PostgreSQL. Tuliskan password yang diinginkan. Perhatikan untuk selalu mengingat password tersebut karena akan digunakan untuk kamu mengakses server PostgreSQL.
+8. Di halaman selanjutnya, akan dimintai password untuk akun superuser PostgreSQL. Tuliskan password yang diinginkan. Perhatikan untuk selalu mengingat password tersebut karena akan digunakan untuk mengakses server PostgreSQL.
 9. Di layar selanjutnya, kita dapat mengatur pin yang berfungsi sebagai port number untuk PostgreSQL. Pada default, pin-nya adalah 5432, dan disarankan untuk membiarkannya seperti semula. Selanjutnya klik tombol “Next:.
 10. Selanjutnya akan ditampilkan rangkuman dari pilihan-pilihan yang dipilih. Tinjau kembali. Jika sudah yakin, tekan tombol “Next” untuk melanjutkan.
 11. Tekan tombol “Next” lagi jika halaman “Ready to Install” muncul. Proses instalasi akan dimulai.

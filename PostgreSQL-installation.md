@@ -9,7 +9,7 @@ langkah langkah
 8. Di halaman selanjutnya, akan dimintai password untuk akun superuser PostgreSQL kamu. Tuliskan password yang kamu inginkan. Perhatikan untuk selalu mengingat password tersebut karena akan digunakan untuk kamu mengakses server PostgreSQL.
 9. Di layar selanjutnya, kamu dapat mengatur pin yang berfungsi sebagai port number untuk PostgreSQL kamu. Pada default, pin-nya adalah 5432, dan disarankan untuk membiarkannya seperti semula. Selanjutnya klik tombol “Next:.
 10. Selanjutnya akan ditampilkan rangkuman dari pilihan-pilihan yang dipilih. Tinjau kembali. Jika sudah yakin, tekan tombol “Next” untuk melanjutkan.
-11. ekan tombol “Next” lagi jika halaman “Ready to Install” muncul. Proses instalasi akan dimulai.
+11. Tekan tombol “Next” lagi jika halaman “Ready to Install” muncul. Proses instalasi akan dimulai.
 12. Setelah proses install selesai, halaman akhir dari PostgreSQL Setup Wizard akan muncul. 
 13. Tutup PostgreSQL Setup Wizard dengan menekan tombol “Finish”.
 14. Proses instalasi PostgreSQL selesai dan siap digunkan.

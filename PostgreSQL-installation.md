@@ -3,7 +3,7 @@ langkah langkah
 2. Setelah masuk, pilih “Download the installer”
 3. Selanjutnya, pilih versi PostgreSQL
 4. Setelah download selesai, buka installer yang memiliki ekstensi .exe, lalu mulai pengaturan install dengan menekan tombol “Next” pada PostgreSQL Setup Wizard.
-5. Di layar, kamu akan ditanyai tentang lokasi directory untuk instalasi kamu. Isi sesuai kebutuhan kamu, atau langsung tekan tombol “Next” untuk memilih directory semula.
+5. Di layar, akan ditanyai tentang lokasi directory untuk instalasi kamu. Isi sesuai kebutuhan kamu, atau langsung tekan tombol “Next” untuk memilih directory semula.
 6. Selanjutnya memilih komponen-komponen yang ingin kamu install. Disarankan untuk kamu memilih semua komponen. Tekan tombol “Next” untuk melanjutkan.
 7. Berikutnya akan dimintai lokasi directory kembali, namun kali ini adalah lokasi penyimpanan database PostgreSQL. Seperti sebelumnya, isi sesuai kebutuhan , atau langsung tekan tombol “Next” untuk memilih directory semula.
 8. Di halaman selanjutnya, akan dimintai password untuk akun superuser PostgreSQL kamu. Tuliskan password yang kamu inginkan. Perhatikan untuk selalu mengingat password tersebut karena akan digunakan untuk kamu mengakses server PostgreSQL.
